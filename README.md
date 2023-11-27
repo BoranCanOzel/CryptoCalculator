@@ -1,3 +1,2 @@
 # CryptoCalculator
-Crypto Calculator
-This is a crypto calculator using basic data scraping. I have used this portion of code in one of my dicord bot projects and decided to publish it since I no longer need it.
+This repository contains a brief and straightforward cryptocurrency calculator script. Initially used in a Discord bot project, I'm sharing it now as it's a compact script and is no longer in active use.
